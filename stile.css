@@ -9,13 +9,13 @@ header{
 }
 main{
     width: 100%;
-    height: fit-content;
+    min-height: 89vh;
     background-color:cadetblue;
     color: white;
 }
 .container_game{
     height: fit-content;
-    width: 40rem;
+    width: 30rem;
     background-color: darkgray;
     display: flex;
     flex-wrap: wrap;
